@@ -172,7 +172,7 @@ a{
 <h4>Department of Electronics and Communication Engineering</h4>
 <h1>Mini-Project on</h1>
 <h5>"A Design of Weather Factors Monitoring System based on IOT"</h5>
-<p>Designed and developed by Dinesh Gowda M (1RR18EC024)<br>
+<p>Designed and developed by D G M<br>
 Student, Dept. of ECE, RRCE.</p>
 <div class="widget"> 
   <div class="clock">
