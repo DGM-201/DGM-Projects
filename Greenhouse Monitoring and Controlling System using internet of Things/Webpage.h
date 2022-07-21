@@ -334,7 +334,7 @@
             </div>
             <div class="footer">
                 <h4>Designed and developed by:<br>
-                Dinesh Gowda M (1RR18EC024)<br>
+                D G M<br>
                 Student, Dept. of ECE, RRCE, Bengaluru.</h4>
             </div>
         </div>
