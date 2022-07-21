@@ -5,7 +5,7 @@
 //                                                                     //
 //                             Done by                                 //
 //                                                                     //
-//                    DINESH GOWDA M [1RR18EC024]                      //                 
+//                             D  G  M                                 //                 
 //                             Student                                 //      
 //       Department of Electronics and Communication Engineering       //
 //                RajaRajeswari College of Engineeering                //
@@ -44,7 +44,7 @@ void setup()
   Serial.println("*                         Main Project on                         *");
   Serial.println("*         'Greenhouse Monitoring and Controlling using IoT'       *");
   Serial.println("*                             Done by                             *");
-  Serial.println("*                   DINESH GOWDA M [1RR18EC024]                   *");
+  Serial.println("*                            D   G   M                            *");
   Serial.println("*                           Stduent of                            *");
   Serial.println("*      Department of Electronics and Communication Engineering    *");
   Serial.println("*                RajaRajeswari College of Engineering             *");
@@ -201,5 +201,5 @@ void loop()
   readfirebase();
 }
 
-// Initially thought of using an Webpage to monitor and control the devices but then moved to an android for better user experience, I have attached all the files incase.
-// Note: Webpage is incomplete.
+// Initially thought of using an Webpage to monitor and control the devices but then moved to an android application for better user experience, I have attached all the files incase.
+// Note: Webpage is incomplete. Android application is developed using MIT Appinventor and Google Firebase acting as a database server.
