@@ -201,5 +201,5 @@ void loop()
   readfirebase();
 }
 
-// Initially thought of using an Webpage to monitor and control the devices but then moved to an android application for better user experience, I have attached all the files incase.
-// Note: Webpage is incomplete. Android application is developed using MIT Appinventor and Google Firebase acting as a database server.
+// Note: Webpage is incomplete. Reason: Initially thought of using an Webpage to monitor and control the devices but then moved to an android application for better user experience, I have attached all these file as reference, anyone can built on top of it and make it functional.
+// Android application is developed using MIT Appinventor and Google Firebase acting as a database server.
